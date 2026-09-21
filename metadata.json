@@ -1,0 +1,6 @@
+{
+  "name": "ITM Cambio de Monedas",
+  "description": "Sistema de consulta, cambio y análisis de inversión de divisas con historial de tasas de cambio y gestión de monedas y países.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1241 @@
+[
+  {
+    "id": 1,
+    "sigla": "AED",
+    "nombre": "Dírham de los Emiratos Árabes Unidos",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 2,
+    "sigla": "AFN",
+    "nombre": "Afgani",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 3,
+    "sigla": "ALL",
+    "nombre": "Lek",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 4,
+    "sigla": "AMD",
+    "nombre": "Dram armenio",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 5,
+    "sigla": "ANG",
+    "nombre": "Florín antillano neerlandés",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 6,
+    "sigla": "AOA",
+    "nombre": "Kwanza",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 7,
+    "sigla": "ARS",
+    "nombre": "Peso argentino",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 8,
+    "sigla": "AUD",
+    "nombre": "Dólar australiano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 9,
+    "sigla": "AWG",
+    "nombre": "Florín arubeño",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 10,
+    "sigla": "AZN",
+    "nombre": "Manat azerbaiyano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 11,
+    "sigla": "BAM",
+    "nombre": "Marco convertible",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 12,
+    "sigla": "BBD",
+    "nombre": "Dólar de Barbados",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 13,
+    "sigla": "BDT",
+    "nombre": "Taka",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 14,
+    "sigla": "BGN",
+    "nombre": "Lev búlgaro",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 15,
+    "sigla": "BHD",
+    "nombre": "Dinar bareiní",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 16,
+    "sigla": "BIF",
+    "nombre": "Franco de Burundi",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 17,
+    "sigla": "BMD",
+    "nombre": "Dólar bermudeño",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 18,
+    "sigla": "BND",
+    "nombre": "Dólar de Brunéi",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 19,
+    "sigla": "BOB",
+    "nombre": "Boliviano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 20,
+    "sigla": "BOV",
+    "nombre": "MVDOL",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 21,
+    "sigla": "BRL",
+    "nombre": "Real brasileño",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 22,
+    "sigla": "BSD",
+    "nombre": "Dólar bahameño",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 23,
+    "sigla": "BTN",
+    "nombre": "Ngultrum",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 24,
+    "sigla": "BWP",
+    "nombre": "Pula",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 25,
+    "sigla": "BYR",
+    "nombre": "Rublo bielorruso",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 26,
+    "sigla": "BZD",
+    "nombre": "Dólar beliceño",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 27,
+    "sigla": "CAD",
+    "nombre": "Dólar canadiense",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 28,
+    "sigla": "CDF",
+    "nombre": "Franco congoleño",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 29,
+    "sigla": "CHE",
+    "nombre": "Euro WIR",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 30,
+    "sigla": "CHF",
+    "nombre": "Franco suizo",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 31,
+    "sigla": "CHW",
+    "nombre": "Franco WIR",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 32,
+    "sigla": "CLF",
+    "nombre": "Unidad de fomento",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 33,
+    "sigla": "CLP",
+    "nombre": "Peso chileno",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 34,
+    "sigla": "CNY",
+    "nombre": "Yuan chino",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 35,
+    "sigla": "COP",
+    "nombre": "Peso colombiano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 36,
+    "sigla": "COU",
+    "nombre": "Unidad de valor real",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 37,
+    "sigla": "CRC",
+    "nombre": "Colón costarricense",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 38,
+    "sigla": "CUC",
+    "nombre": "Peso convertible",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 39,
+    "sigla": "CUP",
+    "nombre": "Peso cubano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 40,
+    "sigla": "CVE",
+    "nombre": "Escudo caboverdiano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 41,
+    "sigla": "CZK",
+    "nombre": "Corona checa",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 42,
+    "sigla": "DJF",
+    "nombre": "Franco yibutiano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 43,
+    "sigla": "DKK",
+    "nombre": "Corona danesa",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 44,
+    "sigla": "DOP",
+    "nombre": "Peso dominicano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 45,
+    "sigla": "DZD",
+    "nombre": "Dinar argelino",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 46,
+    "sigla": "EGP",
+    "nombre": "Libra egipcia",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 47,
+    "sigla": "ERN",
+    "nombre": "Nakfa",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 48,
+    "sigla": "ETB",
+    "nombre": "Birr etíope",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 49,
+    "sigla": "EUR",
+    "nombre": "Euro",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 50,
+    "sigla": "FJD",
+    "nombre": "Dólar fiyiano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 51,
+    "sigla": "FKP",
+    "nombre": "Libra malvinense",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 52,
+    "sigla": "GBP",
+    "nombre": "Libra esterlina",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 53,
+    "sigla": "GEL",
+    "nombre": "Lari",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 54,
+    "sigla": "GHS",
+    "nombre": "Cedi ghanés",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 55,
+    "sigla": "GIP",
+    "nombre": "Libra de Gibraltar",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 56,
+    "sigla": "GMD",
+    "nombre": "Dalasi",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 57,
+    "sigla": "GNF",
+    "nombre": "Franco guineano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 58,
+    "sigla": "GTQ",
+    "nombre": "Quetzal",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 59,
+    "sigla": "GYD",
+    "nombre": "Dólar guyanés",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 60,
+    "sigla": "HKD",
+    "nombre": "Dólar de Hong Kong",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 61,
+    "sigla": "HNL",
+    "nombre": "Lempira",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 62,
+    "sigla": "HRK",
+    "nombre": "Kuna",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 63,
+    "sigla": "HTG",
+    "nombre": "Gourde",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 64,
+    "sigla": "HUF",
+    "nombre": "Forinto",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 65,
+    "sigla": "IDR",
+    "nombre": "Rupia indonesia",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 66,
+    "sigla": "ILS",
+    "nombre": "Nuevo shéquel israelí",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 67,
+    "sigla": "INR",
+    "nombre": "Rupia india",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 68,
+    "sigla": "IQD",
+    "nombre": "Dinar iraquí",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 69,
+    "sigla": "IRR",
+    "nombre": "Rial iraní",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 70,
+    "sigla": "ISK",
+    "nombre": "Corona islandesa",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 71,
+    "sigla": "JMD",
+    "nombre": "Dólar jamaiquino",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 72,
+    "sigla": "JOD",
+    "nombre": "Dinar jordano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 73,
+    "sigla": "JPY",
+    "nombre": "Yen",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 74,
+    "sigla": "KES",
+    "nombre": "Chelín keniano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 75,
+    "sigla": "KGS",
+    "nombre": "Som",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 76,
+    "sigla": "KHR",
+    "nombre": "Riel",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 77,
+    "sigla": "KMF",
+    "nombre": "Franco comorense",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 78,
+    "sigla": "KPW",
+    "nombre": "Won norcoreano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 79,
+    "sigla": "KRW",
+    "nombre": "Won",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 80,
+    "sigla": "KWD",
+    "nombre": "Dinar kuwaití",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 81,
+    "sigla": "KYD",
+    "nombre": "Dólar de las Islas Caimán",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 82,
+    "sigla": "KZT",
+    "nombre": "Tenge",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 83,
+    "sigla": "LAK",
+    "nombre": "Kip",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 84,
+    "sigla": "LBP",
+    "nombre": "Libra libanesa",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 85,
+    "sigla": "LKR",
+    "nombre": "Rupia de Sri Lanka",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 86,
+    "sigla": "LRD",
+    "nombre": "Dólar liberiano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 87,
+    "sigla": "LSL",
+    "nombre": "Loti",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 88,
+    "sigla": "LYD",
+    "nombre": "Dinar libio",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 89,
+    "sigla": "MAD",
+    "nombre": "Dírham marroquí",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 90,
+    "sigla": "MDL",
+    "nombre": "Leu moldavo",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 91,
+    "sigla": "MGA",
+    "nombre": "Ariary malgache",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 92,
+    "sigla": "MKD",
+    "nombre": "Denar",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 93,
+    "sigla": "MMK",
+    "nombre": "Kyat",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 94,
+    "sigla": "MNT",
+    "nombre": "Tugrik",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 95,
+    "sigla": "MOP",
+    "nombre": "Pataca",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 96,
+    "sigla": "MRO",
+    "nombre": "Uguiya",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 97,
+    "sigla": "MUR",
+    "nombre": "Rupia de Mauricio",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 98,
+    "sigla": "MVR",
+    "nombre": "Rufiyaa",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 99,
+    "sigla": "MWK",
+    "nombre": "Kwacha",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 100,
+    "sigla": "MXN",
+    "nombre": "Peso mexicano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 101,
+    "sigla": "MXV",
+    "nombre": "Unidad de Inversión (UDI); mexicana",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 102,
+    "sigla": "MYR",
+    "nombre": "Ringgit malayo",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 103,
+    "sigla": "MZN",
+    "nombre": "Metical mozambiqueño",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 104,
+    "sigla": "NAD",
+    "nombre": "Dólar namibio",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 105,
+    "sigla": "NGN",
+    "nombre": "Naira",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 106,
+    "sigla": "NIO",
+    "nombre": "Córdoba",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 107,
+    "sigla": "NOK",
+    "nombre": "Corona noruega",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 108,
+    "sigla": "NPR",
+    "nombre": "Rupia nepalí",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 109,
+    "sigla": "NZD",
+    "nombre": "Dólar neozelandés",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 110,
+    "sigla": "OMR",
+    "nombre": "Rial omaní",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 111,
+    "sigla": "PAB",
+    "nombre": "Balboa",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 112,
+    "sigla": "PEN",
+    "nombre": "Sol",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 113,
+    "sigla": "PGK",
+    "nombre": "Kina",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 114,
+    "sigla": "PHP",
+    "nombre": "Peso filipino",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 115,
+    "sigla": "PKR",
+    "nombre": "Rupia pakistaní",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 116,
+    "sigla": "PLN",
+    "nombre": "Zloty",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 117,
+    "sigla": "PYG",
+    "nombre": "Guaraní",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 118,
+    "sigla": "QAR",
+    "nombre": "Riyal qatarí",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 119,
+    "sigla": "RON",
+    "nombre": "Leu rumano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 120,
+    "sigla": "RSD",
+    "nombre": "Dinar serbio",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 121,
+    "sigla": "RUB",
+    "nombre": "Rublo ruso",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 122,
+    "sigla": "RWF",
+    "nombre": "Franco ruandés",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 123,
+    "sigla": "SAR",
+    "nombre": "Riyal saudí",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 124,
+    "sigla": "SBD",
+    "nombre": "Dólar de las Islas Salomón",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 125,
+    "sigla": "SCR",
+    "nombre": "Rupia seychelense",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 126,
+    "sigla": "SDG",
+    "nombre": "Dinar sudanés",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 127,
+    "sigla": "SEK",
+    "nombre": "Corona sueca",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 128,
+    "sigla": "SGD",
+    "nombre": "Dólar de Singapur",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 129,
+    "sigla": "SHP",
+    "nombre": "Libra de Santa Elena",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 130,
+    "sigla": "SLL",
+    "nombre": "Leone",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 131,
+    "sigla": "SOS",
+    "nombre": "Chelín somalí",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 132,
+    "sigla": "SRD",
+    "nombre": "Dólar surinamés",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 133,
+    "sigla": "SSP",
+    "nombre": "Libra sursudanesa",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 134,
+    "sigla": "STD",
+    "nombre": "Dobra",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 135,
+    "sigla": "SVC",
+    "nombre": "Colon Salvadoreño",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 136,
+    "sigla": "SYP",
+    "nombre": "Libra siria",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 137,
+    "sigla": "SZL",
+    "nombre": "Lilangeni",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 138,
+    "sigla": "THB",
+    "nombre": "Baht",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 139,
+    "sigla": "TJS",
+    "nombre": "Somoni tayiko",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 140,
+    "sigla": "TMT",
+    "nombre": "Manat turcomano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 141,
+    "sigla": "TND",
+    "nombre": "Dinar tunecino",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 142,
+    "sigla": "TOP",
+    "nombre": "Pa´anga",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 143,
+    "sigla": "TRY",
+    "nombre": "Lira turca",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 144,
+    "sigla": "TTD",
+    "nombre": "Dólar de Trinidad y Tobago",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 145,
+    "sigla": "TWD",
+    "nombre": "Nuevo dólar taiwanés",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 146,
+    "sigla": "TZS",
+    "nombre": "Chelín tanzano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 147,
+    "sigla": "UAH",
+    "nombre": "Grivna",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 148,
+    "sigla": "UGX",
+    "nombre": "Chelín ugandés",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 149,
+    "sigla": "USD",
+    "nombre": "Dólar estadounidense",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 150,
+    "sigla": "USN",
+    "nombre": "Dólar estadounidense (Siguiente día);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 151,
+    "sigla": "UYI",
+    "nombre": "Peso en Unidades Indexadas (Uruguay);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 152,
+    "sigla": "UYU",
+    "nombre": "Peso uruguayo",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 153,
+    "sigla": "UZS",
+    "nombre": "Som uzbeko",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 154,
+    "sigla": "VEF",
+    "nombre": "Bolívar",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 155,
+    "sigla": "VES7",
+    "nombre": "Bolívar soberano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 156,
+    "sigla": "VND",
+    "nombre": "Dong vietnamita",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 157,
+    "sigla": "VUV",
+    "nombre": "Vatu",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 158,
+    "sigla": "WST",
+    "nombre": "Tala",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 159,
+    "sigla": "XAF",
+    "nombre": "Franco CFA de África Central",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 160,
+    "sigla": "XAG",
+    "nombre": "Plata (una onza troy);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 161,
+    "sigla": "XAU",
+    "nombre": "Oro (una onza troy);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 162,
+    "sigla": "XBA",
+    "nombre": "Unidad compuesta europea (EURCO); (Unidad del mercado de bonos);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 163,
+    "sigla": "XBB",
+    "nombre": "Unidad Monetaria europea (E.M.U.-6); (Unidad del mercado de bonos);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 164,
+    "sigla": "XBC",
+    "nombre": "Unidad europea de cuenta 9 (E.U.A.-9); (Unidad del mercado de bonos);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 165,
+    "sigla": "XBD",
+    "nombre": "Unidad europea de cuenta 17 (E.U.A.-17); (Unidad del mercado de bonos);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 166,
+    "sigla": "XCD",
+    "nombre": "Dólar del Caribe Oriental",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 167,
+    "sigla": "XDR",
+    "nombre": "Derechos especiales de giro",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 168,
+    "sigla": "XOF",
+    "nombre": "Franco CFA de África Occidental",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 169,
+    "sigla": "XPD",
+    "nombre": "Paladio (una onza troy);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 170,
+    "sigla": "XPF",
+    "nombre": "Franco CFP",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 171,
+    "sigla": "XPT",
+    "nombre": "Platino (una onza troy);",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 172,
+    "sigla": "XSU",
+    "nombre": "SUCRE",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 173,
+    "sigla": "XUA",
+    "nombre": "Unidad de cuenta BAD",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 174,
+    "sigla": "YER",
+    "nombre": "Rial yemení",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 175,
+    "sigla": "ZAR",
+    "nombre": "Rand",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 176,
+    "sigla": "ZMW",
+    "nombre": "Kwacha zambiano",
+    "simbolo": "",
+    "emisor": ""
+  },
+  {
+    "id": 177,
+    "sigla": "ZWL",
+    "nombre": "Dólar zimbabuense",
+    "simbolo": "",
+    "emisor": ""
+  }
+]

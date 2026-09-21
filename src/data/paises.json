@@ -1,0 +1,1745 @@
+[
+  {
+    "id": 4,
+    "nombre": "Afganistán",
+    "codigoAlfa2": "AF",
+    "codigoAlfa3": "AFG",
+    "idMoneda": 2
+  },
+  {
+    "id": 248,
+    "nombre": "Åland",
+    "codigoAlfa2": "AX",
+    "codigoAlfa3": "ALA",
+    "idMoneda": 49
+  },
+  {
+    "id": 8,
+    "nombre": "Albania",
+    "codigoAlfa2": "AL",
+    "codigoAlfa3": "ALB",
+    "idMoneda": 3
+  },
+  {
+    "id": 276,
+    "nombre": "Alemania",
+    "codigoAlfa2": "DE",
+    "codigoAlfa3": "DEU",
+    "idMoneda": 49
+  },
+  {
+    "id": 20,
+    "nombre": "Andorra",
+    "codigoAlfa2": "AD",
+    "codigoAlfa3": "AND",
+    "idMoneda": 49
+  },
+  {
+    "id": 24,
+    "nombre": "Angola",
+    "codigoAlfa2": "AO",
+    "codigoAlfa3": "AGO",
+    "idMoneda": 6
+  },
+  {
+    "id": 660,
+    "nombre": "Anguila",
+    "codigoAlfa2": "AI",
+    "codigoAlfa3": "AIA",
+    "idMoneda": 166
+  },
+  {
+    "id": 10,
+    "nombre": "Antártida",
+    "codigoAlfa2": "AQ",
+    "codigoAlfa3": "ATA",
+    "idMoneda": 149
+  },
+  {
+    "id": 28,
+    "nombre": "Antigua y Barbuda",
+    "codigoAlfa2": "AG",
+    "codigoAlfa3": "ATG",
+    "idMoneda": 166
+  },
+  {
+    "id": 682,
+    "nombre": "Arabia Saudita",
+    "codigoAlfa2": "SA",
+    "codigoAlfa3": "SAU",
+    "idMoneda": 123
+  },
+  {
+    "id": 12,
+    "nombre": "Argelia",
+    "codigoAlfa2": "DZ",
+    "codigoAlfa3": "DZA",
+    "idMoneda": 45
+  },
+  {
+    "id": 32,
+    "nombre": "Argentina",
+    "codigoAlfa2": "AR",
+    "codigoAlfa3": "ARG",
+    "idMoneda": 7
+  },
+  {
+    "id": 51,
+    "nombre": "Armenia",
+    "codigoAlfa2": "AM",
+    "codigoAlfa3": "ARM",
+    "idMoneda": 4
+  },
+  {
+    "id": 533,
+    "nombre": "Aruba",
+    "codigoAlfa2": "AW",
+    "codigoAlfa3": "ABW",
+    "idMoneda": 9
+  },
+  {
+    "id": 36,
+    "nombre": "Australia",
+    "codigoAlfa2": "AU",
+    "codigoAlfa3": "AUS",
+    "idMoneda": 8
+  },
+  {
+    "id": 40,
+    "nombre": "Austria",
+    "codigoAlfa2": "AT",
+    "codigoAlfa3": "AUT",
+    "idMoneda": 49
+  },
+  {
+    "id": 31,
+    "nombre": "Azerbaiyán",
+    "codigoAlfa2": "AZ",
+    "codigoAlfa3": "AZE",
+    "idMoneda": 10
+  },
+  {
+    "id": 44,
+    "nombre": "Bahamas",
+    "codigoAlfa2": "BS",
+    "codigoAlfa3": "BHS",
+    "idMoneda": 22
+  },
+  {
+    "id": 50,
+    "nombre": "Bangladés",
+    "codigoAlfa2": "BD",
+    "codigoAlfa3": "BGD",
+    "idMoneda": 13
+  },
+  {
+    "id": 52,
+    "nombre": "Barbados",
+    "codigoAlfa2": "BB",
+    "codigoAlfa3": "BRB",
+    "idMoneda": 12
+  },
+  {
+    "id": 48,
+    "nombre": "Baréin",
+    "codigoAlfa2": "BH",
+    "codigoAlfa3": "BHR",
+    "idMoneda": 15
+  },
+  {
+    "id": 56,
+    "nombre": "Bélgica",
+    "codigoAlfa2": "BE",
+    "codigoAlfa3": "BEL",
+    "idMoneda": 49
+  },
+  {
+    "id": 84,
+    "nombre": "Belice",
+    "codigoAlfa2": "BZ",
+    "codigoAlfa3": "BLZ",
+    "idMoneda": 26
+  },
+  {
+    "id": 204,
+    "nombre": "Benín",
+    "codigoAlfa2": "BJ",
+    "codigoAlfa3": "BEN",
+    "idMoneda": 168
+  },
+  {
+    "id": 60,
+    "nombre": "Bermudas",
+    "codigoAlfa2": "BM",
+    "codigoAlfa3": "BMU",
+    "idMoneda": 17
+  },
+  {
+    "id": 112,
+    "nombre": "Bielorrusia",
+    "codigoAlfa2": "BY",
+    "codigoAlfa3": "BLR",
+    "idMoneda": 25
+  },
+  {
+    "id": 68,
+    "nombre": "Bolivia",
+    "codigoAlfa2": "BO",
+    "codigoAlfa3": "BOL",
+    "idMoneda": 19
+  },
+  {
+    "id": 535,
+    "nombre": "Bonaire, San Eustaquio y Saba",
+    "codigoAlfa2": "BQ",
+    "codigoAlfa3": "BES",
+    "idMoneda": 149
+  },
+  {
+    "id": 70,
+    "nombre": "Bosnia y Herzegovina",
+    "codigoAlfa2": "BA",
+    "codigoAlfa3": "BIH",
+    "idMoneda": 11
+  },
+  {
+    "id": 72,
+    "nombre": "Botsuana",
+    "codigoAlfa2": "BW",
+    "codigoAlfa3": "BWA",
+    "idMoneda": 24
+  },
+  {
+    "id": 76,
+    "nombre": "Brasil",
+    "codigoAlfa2": "BR",
+    "codigoAlfa3": "BRA",
+    "idMoneda": 21
+  },
+  {
+    "id": 96,
+    "nombre": "Brunéi",
+    "codigoAlfa2": "BN",
+    "codigoAlfa3": "BRN",
+    "idMoneda": 18
+  },
+  {
+    "id": 100,
+    "nombre": "Bulgaria",
+    "codigoAlfa2": "BG",
+    "codigoAlfa3": "BGR",
+    "idMoneda": 14
+  },
+  {
+    "id": 854,
+    "nombre": "Burkina Faso",
+    "codigoAlfa2": "BF",
+    "codigoAlfa3": "BFA",
+    "idMoneda": 168
+  },
+  {
+    "id": 108,
+    "nombre": "Burundi",
+    "codigoAlfa2": "BI",
+    "codigoAlfa3": "BDI",
+    "idMoneda": 16
+  },
+  {
+    "id": 64,
+    "nombre": "Bután",
+    "codigoAlfa2": "BT",
+    "codigoAlfa3": "BTN",
+    "idMoneda": 23
+  },
+  {
+    "id": 132,
+    "nombre": "Cabo Verde",
+    "codigoAlfa2": "CV",
+    "codigoAlfa3": "CPV",
+    "idMoneda": 40
+  },
+  {
+    "id": 116,
+    "nombre": "Camboya",
+    "codigoAlfa2": "KH",
+    "codigoAlfa3": "KHM",
+    "idMoneda": 76
+  },
+  {
+    "id": 120,
+    "nombre": "Camerún",
+    "codigoAlfa2": "CM",
+    "codigoAlfa3": "CMR",
+    "idMoneda": 159
+  },
+  {
+    "id": 124,
+    "nombre": "Canadá",
+    "codigoAlfa2": "CA",
+    "codigoAlfa3": "CAN",
+    "idMoneda": 27
+  },
+  {
+    "id": 634,
+    "nombre": "Catar",
+    "codigoAlfa2": "QA",
+    "codigoAlfa3": "QAT",
+    "idMoneda": 118
+  },
+  {
+    "id": 148,
+    "nombre": "Chad",
+    "codigoAlfa2": "TD",
+    "codigoAlfa3": "TCD",
+    "idMoneda": 159
+  },
+  {
+    "id": 152,
+    "nombre": "Chile",
+    "codigoAlfa2": "CL",
+    "codigoAlfa3": "CHL",
+    "idMoneda": 32
+  },
+  {
+    "id": 156,
+    "nombre": "China",
+    "codigoAlfa2": "CN",
+    "codigoAlfa3": "CHN",
+    "idMoneda": 34
+  },
+  {
+    "id": 196,
+    "nombre": "Chipre",
+    "codigoAlfa2": "CY",
+    "codigoAlfa3": "CYP",
+    "idMoneda": 49
+  },
+  {
+    "id": 170,
+    "nombre": "Colombia",
+    "codigoAlfa2": "CO",
+    "codigoAlfa3": "COL",
+    "idMoneda": 35
+  },
+  {
+    "id": 174,
+    "nombre": "Comoras",
+    "codigoAlfa2": "KM",
+    "codigoAlfa3": "CON",
+    "idMoneda": 77
+  },
+  {
+    "id": 408,
+    "nombre": "Corea del Norte",
+    "codigoAlfa2": "KP",
+    "codigoAlfa3": "PRK",
+    "idMoneda": 78
+  },
+  {
+    "id": 410,
+    "nombre": "Corea del Sur",
+    "codigoAlfa2": "KR",
+    "codigoAlfa3": "KOR",
+    "idMoneda": 79
+  },
+  {
+    "id": 384,
+    "nombre": "Costa de Marfil",
+    "codigoAlfa2": "CI",
+    "codigoAlfa3": "CIV",
+    "idMoneda": 168
+  },
+  {
+    "id": 188,
+    "nombre": "Costa Rica",
+    "codigoAlfa2": "CR",
+    "codigoAlfa3": "CRI",
+    "idMoneda": 37
+  },
+  {
+    "id": 191,
+    "nombre": "Croacia",
+    "codigoAlfa2": "HR",
+    "codigoAlfa3": "HRV",
+    "idMoneda": 62
+  },
+  {
+    "id": 192,
+    "nombre": "Cuba",
+    "codigoAlfa2": "CU",
+    "codigoAlfa3": "CUB",
+    "idMoneda": 38
+  },
+  {
+    "id": 531,
+    "nombre": "Curazao",
+    "codigoAlfa2": "CW",
+    "codigoAlfa3": "CUW",
+    "idMoneda": 5
+  },
+  {
+    "id": 208,
+    "nombre": "Dinamarca",
+    "codigoAlfa2": "DK",
+    "codigoAlfa3": "DNK",
+    "idMoneda": 49
+  },
+  {
+    "id": 212,
+    "nombre": "Dominica",
+    "codigoAlfa2": "DM",
+    "codigoAlfa3": "DMA",
+    "idMoneda": 166
+  },
+  {
+    "id": 218,
+    "nombre": "Ecuador",
+    "codigoAlfa2": "EC",
+    "codigoAlfa3": "ECU",
+    "idMoneda": 149
+  },
+  {
+    "id": 818,
+    "nombre": "Egipto",
+    "codigoAlfa2": "EG",
+    "codigoAlfa3": "EGY",
+    "idMoneda": 46
+  },
+  {
+    "id": 222,
+    "nombre": "El Salvador",
+    "codigoAlfa2": "SV",
+    "codigoAlfa3": "SLV",
+    "idMoneda": 135
+  },
+  {
+    "id": 784,
+    "nombre": "Emiratos Árabes Unidos",
+    "codigoAlfa2": "AE",
+    "codigoAlfa3": "ARE",
+    "idMoneda": 1
+  },
+  {
+    "id": 232,
+    "nombre": "Eritrea",
+    "codigoAlfa2": "ER",
+    "codigoAlfa3": "ERI",
+    "idMoneda": 47
+  },
+  {
+    "id": 703,
+    "nombre": "Eslovaquia",
+    "codigoAlfa2": "SK",
+    "codigoAlfa3": "SVK",
+    "idMoneda": 49
+  },
+  {
+    "id": 705,
+    "nombre": "Eslovenia",
+    "codigoAlfa2": "SI",
+    "codigoAlfa3": "SVN",
+    "idMoneda": 49
+  },
+  {
+    "id": 724,
+    "nombre": "España",
+    "codigoAlfa2": "ES",
+    "codigoAlfa3": "ESP",
+    "idMoneda": 49
+  },
+  {
+    "id": 840,
+    "nombre": "Estados Unidos",
+    "codigoAlfa2": "US",
+    "codigoAlfa3": "USA",
+    "idMoneda": 149
+  },
+  {
+    "id": 233,
+    "nombre": "Estonia",
+    "codigoAlfa2": "EE",
+    "codigoAlfa3": "EST",
+    "idMoneda": 49
+  },
+  {
+    "id": 231,
+    "nombre": "Etiopía",
+    "codigoAlfa2": "ET",
+    "codigoAlfa3": "ETH",
+    "idMoneda": 48
+  },
+  {
+    "id": 608,
+    "nombre": "Filipinas",
+    "codigoAlfa2": "PH",
+    "codigoAlfa3": "PHL",
+    "idMoneda": 114
+  },
+  {
+    "id": 246,
+    "nombre": "Finlandia",
+    "codigoAlfa2": "FI",
+    "codigoAlfa3": "FIN",
+    "idMoneda": 49
+  },
+  {
+    "id": 242,
+    "nombre": "Fiyi",
+    "codigoAlfa2": "FJ",
+    "codigoAlfa3": "FJI",
+    "idMoneda": 50
+  },
+  {
+    "id": 250,
+    "nombre": "Francia",
+    "codigoAlfa2": "FR",
+    "codigoAlfa3": "FRA",
+    "idMoneda": 49
+  },
+  {
+    "id": 266,
+    "nombre": "Gabón",
+    "codigoAlfa2": "GA",
+    "codigoAlfa3": "GAB",
+    "idMoneda": 159
+  },
+  {
+    "id": 270,
+    "nombre": "Gambia",
+    "codigoAlfa2": "GM",
+    "codigoAlfa3": "GMB",
+    "idMoneda": 56
+  },
+  {
+    "id": 268,
+    "nombre": "Georgia",
+    "codigoAlfa2": "GE",
+    "codigoAlfa3": "GEO",
+    "idMoneda": 53
+  },
+  {
+    "id": 288,
+    "nombre": "Ghana",
+    "codigoAlfa2": "GH",
+    "codigoAlfa3": "GHA",
+    "idMoneda": 54
+  },
+  {
+    "id": 292,
+    "nombre": "Gibraltar",
+    "codigoAlfa2": "GI",
+    "codigoAlfa3": "GIB",
+    "idMoneda": 55
+  },
+  {
+    "id": 308,
+    "nombre": "Granada",
+    "codigoAlfa2": "GD",
+    "codigoAlfa3": "GRD",
+    "idMoneda": 166
+  },
+  {
+    "id": 300,
+    "nombre": "Grecia",
+    "codigoAlfa2": "GR",
+    "codigoAlfa3": "GRC",
+    "idMoneda": 49
+  },
+  {
+    "id": 304,
+    "nombre": "Groenlandia",
+    "codigoAlfa2": "GL",
+    "codigoAlfa3": "GRL",
+    "idMoneda": 43
+  },
+  {
+    "id": 312,
+    "nombre": "Guadalupe",
+    "codigoAlfa2": "GP",
+    "codigoAlfa3": "GLP",
+    "idMoneda": 49
+  },
+  {
+    "id": 316,
+    "nombre": "Guam",
+    "codigoAlfa2": "GU",
+    "codigoAlfa3": "GUM",
+    "idMoneda": 149
+  },
+  {
+    "id": 320,
+    "nombre": "Guatemala",
+    "codigoAlfa2": "GT",
+    "codigoAlfa3": "GTM",
+    "idMoneda": 58
+  },
+  {
+    "id": 254,
+    "nombre": "Guayana Francesa",
+    "codigoAlfa2": "GF",
+    "codigoAlfa3": "GUF",
+    "idMoneda": 49
+  },
+  {
+    "id": 831,
+    "nombre": "Guernsey",
+    "codigoAlfa2": "GG",
+    "codigoAlfa3": "GGY",
+    "idMoneda": 52
+  },
+  {
+    "id": 324,
+    "nombre": "Guinea",
+    "codigoAlfa2": "GN",
+    "codigoAlfa3": "GIN",
+    "idMoneda": 57
+  },
+  {
+    "id": 624,
+    "nombre": "Guinea-Bisáu",
+    "codigoAlfa2": "GW",
+    "codigoAlfa3": "GNB",
+    "idMoneda": 168
+  },
+  {
+    "id": 226,
+    "nombre": "Guinea Ecuatorial",
+    "codigoAlfa2": "GQ",
+    "codigoAlfa3": "GNQ",
+    "idMoneda": 159
+  },
+  {
+    "id": 328,
+    "nombre": "Guyana",
+    "codigoAlfa2": "GY",
+    "codigoAlfa3": "GUY",
+    "idMoneda": 59
+  },
+  {
+    "id": 332,
+    "nombre": "Haití",
+    "codigoAlfa2": "HT",
+    "codigoAlfa3": "HTI",
+    "idMoneda": 63
+  },
+  {
+    "id": 340,
+    "nombre": "Honduras",
+    "codigoAlfa2": "HN",
+    "codigoAlfa3": "HND",
+    "idMoneda": 61
+  },
+  {
+    "id": 344,
+    "nombre": "Hong Kong",
+    "codigoAlfa2": "HK",
+    "codigoAlfa3": "HKG",
+    "idMoneda": 60
+  },
+  {
+    "id": 348,
+    "nombre": "Hungría",
+    "codigoAlfa2": "HU",
+    "codigoAlfa3": "HUN",
+    "idMoneda": 64
+  },
+  {
+    "id": 356,
+    "nombre": "India",
+    "codigoAlfa2": "IN",
+    "codigoAlfa3": "IND",
+    "idMoneda": 67
+  },
+  {
+    "id": 360,
+    "nombre": "Indonesia",
+    "codigoAlfa2": "ID",
+    "codigoAlfa3": "IDN",
+    "idMoneda": 65
+  },
+  {
+    "id": 368,
+    "nombre": "Irak",
+    "codigoAlfa2": "IQ",
+    "codigoAlfa3": "IRQ",
+    "idMoneda": 68
+  },
+  {
+    "id": 364,
+    "nombre": "Irán",
+    "codigoAlfa2": "IR",
+    "codigoAlfa3": "IRN",
+    "idMoneda": 69
+  },
+  {
+    "id": 372,
+    "nombre": "Irlanda",
+    "codigoAlfa2": "IE",
+    "codigoAlfa3": "IRL",
+    "idMoneda": 49
+  },
+  {
+    "id": 74,
+    "nombre": "Isla Bouvet",
+    "codigoAlfa2": "BV",
+    "codigoAlfa3": "BVT",
+    "idMoneda": 107
+  },
+  {
+    "id": 833,
+    "nombre": "Isla de Man",
+    "codigoAlfa2": "IM",
+    "codigoAlfa3": "IMN",
+    "idMoneda": 52
+  },
+  {
+    "id": 162,
+    "nombre": "Isla de Navidad",
+    "codigoAlfa2": "CX",
+    "codigoAlfa3": "CXR",
+    "idMoneda": 8
+  },
+  {
+    "id": 352,
+    "nombre": "Islandia",
+    "codigoAlfa2": "IS",
+    "codigoAlfa3": "ISL",
+    "idMoneda": 70
+  },
+  {
+    "id": 136,
+    "nombre": "Islas Caimán",
+    "codigoAlfa2": "KY",
+    "codigoAlfa3": "CYM",
+    "idMoneda": 81
+  },
+  {
+    "id": 166,
+    "nombre": "Islas Cocos",
+    "codigoAlfa2": "CC",
+    "codigoAlfa3": "CCK",
+    "idMoneda": 8
+  },
+  {
+    "id": 184,
+    "nombre": "Islas Cook",
+    "codigoAlfa2": "CK",
+    "codigoAlfa3": "COK",
+    "idMoneda": 109
+  },
+  {
+    "id": 234,
+    "nombre": "Islas Feroe",
+    "codigoAlfa2": "FO",
+    "codigoAlfa3": "FRO",
+    "idMoneda": 43
+  },
+  {
+    "id": 239,
+    "nombre": "Islas Georgias del Sur y Sandwich del Sur",
+    "codigoAlfa2": "GS",
+    "codigoAlfa3": "SGS",
+    "idMoneda": 52
+  },
+  {
+    "id": 334,
+    "nombre": "Islas Heard y McDonald",
+    "codigoAlfa2": "HM",
+    "codigoAlfa3": "HMD",
+    "idMoneda": 8
+  },
+  {
+    "id": 238,
+    "nombre": "Islas Malvinas",
+    "codigoAlfa2": "FK",
+    "codigoAlfa3": "FLK",
+    "idMoneda": 51
+  },
+  {
+    "id": 580,
+    "nombre": "Islas Marianas del Norte",
+    "codigoAlfa2": "MP",
+    "codigoAlfa3": "MNP",
+    "idMoneda": 149
+  },
+  {
+    "id": 584,
+    "nombre": "Islas Marshall",
+    "codigoAlfa2": "MH",
+    "codigoAlfa3": "MHL",
+    "idMoneda": 149
+  },
+  {
+    "id": 612,
+    "nombre": "Islas Pitcairn",
+    "codigoAlfa2": "PN",
+    "codigoAlfa3": "PCN",
+    "idMoneda": 109
+  },
+  {
+    "id": 90,
+    "nombre": "Islas Salomón",
+    "codigoAlfa2": "SB",
+    "codigoAlfa3": "SLB",
+    "idMoneda": 124
+  },
+  {
+    "id": 796,
+    "nombre": "Islas Turcas y Caicos",
+    "codigoAlfa2": "TC",
+    "codigoAlfa3": "TCA",
+    "idMoneda": 149
+  },
+  {
+    "id": 581,
+    "nombre": "Islas ultramarinas de Estados Unidos",
+    "codigoAlfa2": "UM",
+    "codigoAlfa3": "UMI",
+    "idMoneda": 149
+  },
+  {
+    "id": 92,
+    "nombre": "Islas Vírgenes Británicas",
+    "codigoAlfa2": "VG",
+    "codigoAlfa3": "VGB",
+    "idMoneda": 52
+  },
+  {
+    "id": 850,
+    "nombre": "Islas Vírgenes de los Estados Unidos",
+    "codigoAlfa2": "VI",
+    "codigoAlfa3": "VIR",
+    "idMoneda": 149
+  },
+  {
+    "id": 376,
+    "nombre": "Israel",
+    "codigoAlfa2": "IL",
+    "codigoAlfa3": "ISR",
+    "idMoneda": 66
+  },
+  {
+    "id": 380,
+    "nombre": "Italia",
+    "codigoAlfa2": "IT",
+    "codigoAlfa3": "ITA",
+    "idMoneda": 49
+  },
+  {
+    "id": 388,
+    "nombre": "Jamaica",
+    "codigoAlfa2": "JM",
+    "codigoAlfa3": "JAM",
+    "idMoneda": 71
+  },
+  {
+    "id": 392,
+    "nombre": "Japón",
+    "codigoAlfa2": "JP",
+    "codigoAlfa3": "JPN",
+    "idMoneda": 73
+  },
+  {
+    "id": 832,
+    "nombre": "Jersey",
+    "codigoAlfa2": "JE",
+    "codigoAlfa3": "JEY",
+    "idMoneda": 52
+  },
+  {
+    "id": 400,
+    "nombre": "Jordania",
+    "codigoAlfa2": "JO",
+    "codigoAlfa3": "JOR",
+    "idMoneda": 72
+  },
+  {
+    "id": 398,
+    "nombre": "Kazajistán",
+    "codigoAlfa2": "KZ",
+    "codigoAlfa3": "KAZ",
+    "idMoneda": 82
+  },
+  {
+    "id": 404,
+    "nombre": "Kenia",
+    "codigoAlfa2": "KE",
+    "codigoAlfa3": "KEN",
+    "idMoneda": 74
+  },
+  {
+    "id": 417,
+    "nombre": "Kirguistán",
+    "codigoAlfa2": "KG",
+    "codigoAlfa3": "KGZ",
+    "idMoneda": 75
+  },
+  {
+    "id": 296,
+    "nombre": "Kiribati",
+    "codigoAlfa2": "KI",
+    "codigoAlfa3": "KIR",
+    "idMoneda": 8
+  },
+  {
+    "id": 414,
+    "nombre": "Kuwait",
+    "codigoAlfa2": "KW",
+    "codigoAlfa3": "KWT",
+    "idMoneda": 80
+  },
+  {
+    "id": 418,
+    "nombre": "Laos",
+    "codigoAlfa2": "LA",
+    "codigoAlfa3": "LAO",
+    "idMoneda": 83
+  },
+  {
+    "id": 426,
+    "nombre": "Lesoto",
+    "codigoAlfa2": "LS",
+    "codigoAlfa3": "LSO",
+    "idMoneda": 87
+  },
+  {
+    "id": 428,
+    "nombre": "Letonia",
+    "codigoAlfa2": "LV",
+    "codigoAlfa3": "LVA",
+    "idMoneda": 49
+  },
+  {
+    "id": 422,
+    "nombre": "Líbano",
+    "codigoAlfa2": "LB",
+    "codigoAlfa3": "LBN",
+    "idMoneda": 84
+  },
+  {
+    "id": 430,
+    "nombre": "Liberia",
+    "codigoAlfa2": "LR",
+    "codigoAlfa3": "LBR",
+    "idMoneda": 86
+  },
+  {
+    "id": 434,
+    "nombre": "Libia",
+    "codigoAlfa2": "LY",
+    "codigoAlfa3": "LBY",
+    "idMoneda": 88
+  },
+  {
+    "id": 438,
+    "nombre": "Liechtenstein",
+    "codigoAlfa2": "LI",
+    "codigoAlfa3": "LIE",
+    "idMoneda": 30
+  },
+  {
+    "id": 440,
+    "nombre": "Lituania",
+    "codigoAlfa2": "LT",
+    "codigoAlfa3": "LTU",
+    "idMoneda": 49
+  },
+  {
+    "id": 442,
+    "nombre": "Luxemburgo",
+    "codigoAlfa2": "LU",
+    "codigoAlfa3": "LUX",
+    "idMoneda": 49
+  },
+  {
+    "id": 446,
+    "nombre": "Macao",
+    "codigoAlfa2": "MO",
+    "codigoAlfa3": "MAC",
+    "idMoneda": 95
+  },
+  {
+    "id": 807,
+    "nombre": "Macedonia",
+    "codigoAlfa2": "MK",
+    "codigoAlfa3": "MKD",
+    "idMoneda": 92
+  },
+  {
+    "id": 450,
+    "nombre": "Madagascar",
+    "codigoAlfa2": "MG",
+    "codigoAlfa3": "MDG",
+    "idMoneda": 91
+  },
+  {
+    "id": 458,
+    "nombre": "Malasia",
+    "codigoAlfa2": "MY",
+    "codigoAlfa3": "MYS",
+    "idMoneda": 102
+  },
+  {
+    "id": 454,
+    "nombre": "Malaui",
+    "codigoAlfa2": "MW",
+    "codigoAlfa3": "MWI",
+    "idMoneda": 99
+  },
+  {
+    "id": 462,
+    "nombre": "Maldivas",
+    "codigoAlfa2": "MV",
+    "codigoAlfa3": "MDV",
+    "idMoneda": 98
+  },
+  {
+    "id": 466,
+    "nombre": "Malí",
+    "codigoAlfa2": "ML",
+    "codigoAlfa3": "MLI",
+    "idMoneda": 168
+  },
+  {
+    "id": 470,
+    "nombre": "Malta",
+    "codigoAlfa2": "MT",
+    "codigoAlfa3": "MLT",
+    "idMoneda": 49
+  },
+  {
+    "id": 504,
+    "nombre": "Marruecos",
+    "codigoAlfa2": "MA",
+    "codigoAlfa3": "MAR",
+    "idMoneda": 89
+  },
+  {
+    "id": 474,
+    "nombre": "Martinica",
+    "codigoAlfa2": "MQ",
+    "codigoAlfa3": "MTQ",
+    "idMoneda": 49
+  },
+  {
+    "id": 480,
+    "nombre": "Mauricio",
+    "codigoAlfa2": "MU",
+    "codigoAlfa3": "MUS",
+    "idMoneda": 97
+  },
+  {
+    "id": 478,
+    "nombre": "Mauritania",
+    "codigoAlfa2": "MR",
+    "codigoAlfa3": "MRT",
+    "idMoneda": 96
+  },
+  {
+    "id": 175,
+    "nombre": "Mayotte",
+    "codigoAlfa2": "YT",
+    "codigoAlfa3": "MYT",
+    "idMoneda": 49
+  },
+  {
+    "id": 484,
+    "nombre": "México",
+    "codigoAlfa2": "MX",
+    "codigoAlfa3": "MEX",
+    "idMoneda": 100
+  },
+  {
+    "id": 583,
+    "nombre": "Micronesia",
+    "codigoAlfa2": "FM",
+    "codigoAlfa3": "FSM",
+    "idMoneda": 149
+  },
+  {
+    "id": 498,
+    "nombre": "Moldavia",
+    "codigoAlfa2": "MD",
+    "codigoAlfa3": "MDA",
+    "idMoneda": 90
+  },
+  {
+    "id": 492,
+    "nombre": "Mónaco",
+    "codigoAlfa2": "MC",
+    "codigoAlfa3": "MCO",
+    "idMoneda": 49
+  },
+  {
+    "id": 496,
+    "nombre": "Mongolia",
+    "codigoAlfa2": "MN",
+    "codigoAlfa3": "MNG",
+    "idMoneda": 94
+  },
+  {
+    "id": 499,
+    "nombre": "Montenegro",
+    "codigoAlfa2": "ME",
+    "codigoAlfa3": "MNE",
+    "idMoneda": 49
+  },
+  {
+    "id": 500,
+    "nombre": "Montserrat",
+    "codigoAlfa2": "MS",
+    "codigoAlfa3": "MSR",
+    "idMoneda": 166
+  },
+  {
+    "id": 508,
+    "nombre": "Mozambique",
+    "codigoAlfa2": "MZ",
+    "codigoAlfa3": "MOZ",
+    "idMoneda": 103
+  },
+  {
+    "id": 104,
+    "nombre": "Myanmar",
+    "codigoAlfa2": "MM",
+    "codigoAlfa3": "MMR",
+    "idMoneda": 93
+  },
+  {
+    "id": 516,
+    "nombre": "Namibia",
+    "codigoAlfa2": "NA",
+    "codigoAlfa3": "NAM",
+    "idMoneda": 104
+  },
+  {
+    "id": 520,
+    "nombre": "Nauru",
+    "codigoAlfa2": "NR",
+    "codigoAlfa3": "NRU",
+    "idMoneda": 8
+  },
+  {
+    "id": 524,
+    "nombre": "Nepal",
+    "codigoAlfa2": "NP",
+    "codigoAlfa3": "NPL",
+    "idMoneda": 108
+  },
+  {
+    "id": 558,
+    "nombre": "Nicaragua",
+    "codigoAlfa2": "NI",
+    "codigoAlfa3": "NIC",
+    "idMoneda": 106
+  },
+  {
+    "id": 562,
+    "nombre": "Níger",
+    "codigoAlfa2": "NE",
+    "codigoAlfa3": "NER",
+    "idMoneda": 168
+  },
+  {
+    "id": 566,
+    "nombre": "Nigeria",
+    "codigoAlfa2": "NG",
+    "codigoAlfa3": "NGA",
+    "idMoneda": 105
+  },
+  {
+    "id": 570,
+    "nombre": "Niue",
+    "codigoAlfa2": "UN",
+    "codigoAlfa3": "NIU",
+    "idMoneda": 109
+  },
+  {
+    "id": 574,
+    "nombre": "Norfolk",
+    "codigoAlfa2": "NF",
+    "codigoAlfa3": "NFK",
+    "idMoneda": 8
+  },
+  {
+    "id": 578,
+    "nombre": "Noruega",
+    "codigoAlfa2": "NO",
+    "codigoAlfa3": "NOR",
+    "idMoneda": 107
+  },
+  {
+    "id": 540,
+    "nombre": "Nueva Caledonia",
+    "codigoAlfa2": "NC",
+    "codigoAlfa3": "NCL",
+    "idMoneda": 170
+  },
+  {
+    "id": 554,
+    "nombre": "Nueva Zelanda",
+    "codigoAlfa2": "NZ",
+    "codigoAlfa3": "NZL",
+    "idMoneda": 109
+  },
+  {
+    "id": 512,
+    "nombre": "Omán",
+    "codigoAlfa2": "OM",
+    "codigoAlfa3": "OMN",
+    "idMoneda": 110
+  },
+  {
+    "id": 528,
+    "nombre": "Países Bajos",
+    "codigoAlfa2": "NL",
+    "codigoAlfa3": "NLD",
+    "idMoneda": 49
+  },
+  {
+    "id": 586,
+    "nombre": "Pakistán",
+    "codigoAlfa2": "PK",
+    "codigoAlfa3": "PAK",
+    "idMoneda": 115
+  },
+  {
+    "id": 585,
+    "nombre": "Palaos",
+    "codigoAlfa2": "PW",
+    "codigoAlfa3": "PLW",
+    "idMoneda": 149
+  },
+  {
+    "id": 275,
+    "nombre": "Palestina",
+    "codigoAlfa2": "PS",
+    "codigoAlfa3": "PSE",
+    "idMoneda": 72
+  },
+  {
+    "id": 591,
+    "nombre": "Panamá",
+    "codigoAlfa2": "PA",
+    "codigoAlfa3": "PAN",
+    "idMoneda": 111
+  },
+  {
+    "id": 598,
+    "nombre": "Papúa Nueva Guinea",
+    "codigoAlfa2": "PG",
+    "codigoAlfa3": "PNG",
+    "idMoneda": 113
+  },
+  {
+    "id": 600,
+    "nombre": "Paraguay",
+    "codigoAlfa2": "PY",
+    "codigoAlfa3": "PRY",
+    "idMoneda": 117
+  },
+  {
+    "id": 604,
+    "nombre": "Perú",
+    "codigoAlfa2": "PE",
+    "codigoAlfa3": "PER",
+    "idMoneda": 112
+  },
+  {
+    "id": 258,
+    "nombre": "Polinesia Francesa",
+    "codigoAlfa2": "PF",
+    "codigoAlfa3": "PYF",
+    "idMoneda": 170
+  },
+  {
+    "id": 616,
+    "nombre": "Polonia",
+    "codigoAlfa2": "PL",
+    "codigoAlfa3": "POL",
+    "idMoneda": 116
+  },
+  {
+    "id": 620,
+    "nombre": "Portugal",
+    "codigoAlfa2": "PT",
+    "codigoAlfa3": "PRT",
+    "idMoneda": 49
+  },
+  {
+    "id": 630,
+    "nombre": "Puerto Rico",
+    "codigoAlfa2": "PR",
+    "codigoAlfa3": "PRI",
+    "idMoneda": 149
+  },
+  {
+    "id": 826,
+    "nombre": "Reino Unido",
+    "codigoAlfa2": "GB",
+    "codigoAlfa3": "GBR",
+    "idMoneda": 52
+  },
+  {
+    "id": 732,
+    "nombre": "República Árabe Saharaui Democrática",
+    "codigoAlfa2": "EH",
+    "codigoAlfa3": "ESH",
+    "idMoneda": 89
+  },
+  {
+    "id": 140,
+    "nombre": "República Centroafricana",
+    "codigoAlfa2": "CF",
+    "codigoAlfa3": "CAF",
+    "idMoneda": 159
+  },
+  {
+    "id": 203,
+    "nombre": "República Checa",
+    "codigoAlfa2": "CZ",
+    "codigoAlfa3": "CZE",
+    "idMoneda": 41
+  },
+  {
+    "id": 178,
+    "nombre": "República del Congo",
+    "codigoAlfa2": "CG",
+    "codigoAlfa3": "COG",
+    "idMoneda": 28
+  },
+  {
+    "id": 180,
+    "nombre": "República Democrática del Congo",
+    "codigoAlfa2": "CD",
+    "codigoAlfa3": "COD",
+    "idMoneda": 28
+  },
+  {
+    "id": 214,
+    "nombre": "República Dominicana",
+    "codigoAlfa2": "DO",
+    "codigoAlfa3": "DOM",
+    "idMoneda": 44
+  },
+  {
+    "id": 638,
+    "nombre": "Reunión",
+    "codigoAlfa2": "RE",
+    "codigoAlfa3": "REU",
+    "idMoneda": 49
+  },
+  {
+    "id": 646,
+    "nombre": "Ruanda",
+    "codigoAlfa2": "RW",
+    "codigoAlfa3": "RWA",
+    "idMoneda": 122
+  },
+  {
+    "id": 642,
+    "nombre": "Rumania",
+    "codigoAlfa2": "RO",
+    "codigoAlfa3": "ROU",
+    "idMoneda": 119
+  },
+  {
+    "id": 643,
+    "nombre": "Rusia",
+    "codigoAlfa2": "RU",
+    "codigoAlfa3": "RUS",
+    "idMoneda": 121
+  },
+  {
+    "id": 882,
+    "nombre": "Samoa",
+    "codigoAlfa2": "WS",
+    "codigoAlfa3": "WSM",
+    "idMoneda": 158
+  },
+  {
+    "id": 16,
+    "nombre": "Samoa Americana",
+    "codigoAlfa2": "AS",
+    "codigoAlfa3": "ASM",
+    "idMoneda": 149
+  },
+  {
+    "id": 652,
+    "nombre": "San Bartolomé",
+    "codigoAlfa2": "BL",
+    "codigoAlfa3": "BLM",
+    "idMoneda": 49
+  },
+  {
+    "id": 659,
+    "nombre": "San Cristóbal y Nieves",
+    "codigoAlfa2": "KN",
+    "codigoAlfa3": "KNA",
+    "idMoneda": 166
+  },
+  {
+    "id": 674,
+    "nombre": "San Marino",
+    "codigoAlfa2": "SM",
+    "codigoAlfa3": "SMR",
+    "idMoneda": 49
+  },
+  {
+    "id": 663,
+    "nombre": "San Martín",
+    "codigoAlfa2": "MF",
+    "codigoAlfa3": "MAF",
+    "idMoneda": 49
+  },
+  {
+    "id": 666,
+    "nombre": "San Pedro y Miquelón",
+    "codigoAlfa2": "PM",
+    "codigoAlfa3": "SPM",
+    "idMoneda": 49
+  },
+  {
+    "id": 670,
+    "nombre": "San Vicente y las Granadinas",
+    "codigoAlfa2": "VC",
+    "codigoAlfa3": "VCT",
+    "idMoneda": 166
+  },
+  {
+    "id": 654,
+    "nombre": "Santa Elena, Ascensión y Tristán de Acuña",
+    "codigoAlfa2": "SH",
+    "codigoAlfa3": "SHN",
+    "idMoneda": 129
+  },
+  {
+    "id": 662,
+    "nombre": "Santa Lucía",
+    "codigoAlfa2": "LC",
+    "codigoAlfa3": "LCA",
+    "idMoneda": 166
+  },
+  {
+    "id": 678,
+    "nombre": "Santo Tomé y Príncipe",
+    "codigoAlfa2": "ST",
+    "codigoAlfa3": "STP",
+    "idMoneda": 134
+  },
+  {
+    "id": 686,
+    "nombre": "Senegal",
+    "codigoAlfa2": "SN",
+    "codigoAlfa3": "SEN",
+    "idMoneda": 168
+  },
+  {
+    "id": 688,
+    "nombre": "Serbia",
+    "codigoAlfa2": "RS",
+    "codigoAlfa3": "SRB",
+    "idMoneda": 120
+  },
+  {
+    "id": 690,
+    "nombre": "Seychelles",
+    "codigoAlfa2": "SC",
+    "codigoAlfa3": "SYC",
+    "idMoneda": 125
+  },
+  {
+    "id": 694,
+    "nombre": "Sierra Leona",
+    "codigoAlfa2": "SL",
+    "codigoAlfa3": "SLE",
+    "idMoneda": 130
+  },
+  {
+    "id": 702,
+    "nombre": "Singapur",
+    "codigoAlfa2": "SG",
+    "codigoAlfa3": "SGP",
+    "idMoneda": 128
+  },
+  {
+    "id": 534,
+    "nombre": "Sint Maarten",
+    "codigoAlfa2": "SX",
+    "codigoAlfa3": "SXM",
+    "idMoneda": 5
+  },
+  {
+    "id": 760,
+    "nombre": "Siria",
+    "codigoAlfa2": "SY",
+    "codigoAlfa3": "SYR",
+    "idMoneda": 136
+  },
+  {
+    "id": 706,
+    "nombre": "Somalia",
+    "codigoAlfa2": "SO",
+    "codigoAlfa3": "SOM",
+    "idMoneda": 131
+  },
+  {
+    "id": 144,
+    "nombre": "Sri Lanka",
+    "codigoAlfa2": "LK",
+    "codigoAlfa3": "LKA",
+    "idMoneda": 85
+  },
+  {
+    "id": 748,
+    "nombre": "Suazilandia",
+    "codigoAlfa2": "SZ",
+    "codigoAlfa3": "SWZ",
+    "idMoneda": 137
+  },
+  {
+    "id": 710,
+    "nombre": "Sudáfrica",
+    "codigoAlfa2": "ZA",
+    "codigoAlfa3": "ZAF",
+    "idMoneda": 175
+  },
+  {
+    "id": 729,
+    "nombre": "Sudán",
+    "codigoAlfa2": "SD",
+    "codigoAlfa3": "SDN",
+    "idMoneda": 126
+  },
+  {
+    "id": 728,
+    "nombre": "Sudán del Sur",
+    "codigoAlfa2": "SS",
+    "codigoAlfa3": "SSD",
+    "idMoneda": 133
+  },
+  {
+    "id": 752,
+    "nombre": "Suecia",
+    "codigoAlfa2": "SE",
+    "codigoAlfa3": "SWE",
+    "idMoneda": 127
+  },
+  {
+    "id": 756,
+    "nombre": "Suiza",
+    "codigoAlfa2": "CH",
+    "codigoAlfa3": "CHE",
+    "idMoneda": 29
+  },
+  {
+    "id": 740,
+    "nombre": "Surinam",
+    "codigoAlfa2": "SR",
+    "codigoAlfa3": "SUR",
+    "idMoneda": 132
+  },
+  {
+    "id": 744,
+    "nombre": "Svalbard y Jan Mayen",
+    "codigoAlfa2": "SJ",
+    "codigoAlfa3": "SJM",
+    "idMoneda": 107
+  },
+  {
+    "id": 764,
+    "nombre": "Tailandia",
+    "codigoAlfa2": "TH",
+    "codigoAlfa3": "THA",
+    "idMoneda": 138
+  },
+  {
+    "id": 158,
+    "nombre": "Taiwán (República de China);",
+    "codigoAlfa2": "TW",
+    "codigoAlfa3": "TWN",
+    "idMoneda": 145
+  },
+  {
+    "id": 834,
+    "nombre": "Tanzania",
+    "codigoAlfa2": "TZ",
+    "codigoAlfa3": "TZA",
+    "idMoneda": 146
+  },
+  {
+    "id": 762,
+    "nombre": "Tayikistán",
+    "codigoAlfa2": "TJ",
+    "codigoAlfa3": "TJK",
+    "idMoneda": 139
+  },
+  {
+    "id": 86,
+    "nombre": "Territorio Británico del Océano Índico",
+    "codigoAlfa2": "IO",
+    "codigoAlfa3": "IOT",
+    "idMoneda": 52
+  },
+  {
+    "id": 260,
+    "nombre": "Tierras Australes y Antárticas Francesas",
+    "codigoAlfa2": "TF",
+    "codigoAlfa3": "ATF",
+    "idMoneda": 49
+  },
+  {
+    "id": 626,
+    "nombre": "Timor Oriental",
+    "codigoAlfa2": "TL",
+    "codigoAlfa3": "TLS",
+    "idMoneda": 149
+  },
+  {
+    "id": 768,
+    "nombre": "Togo",
+    "codigoAlfa2": "TG",
+    "codigoAlfa3": "TGO",
+    "idMoneda": 168
+  },
+  {
+    "id": 772,
+    "nombre": "Tokelau",
+    "codigoAlfa2": "TK",
+    "codigoAlfa3": "TKL",
+    "idMoneda": 109
+  },
+  {
+    "id": 776,
+    "nombre": "Tonga",
+    "codigoAlfa2": "TO",
+    "codigoAlfa3": "TON",
+    "idMoneda": 142
+  },
+  {
+    "id": 780,
+    "nombre": "Trinidad y Tobago",
+    "codigoAlfa2": "TT",
+    "codigoAlfa3": "TTO",
+    "idMoneda": 144
+  },
+  {
+    "id": 788,
+    "nombre": "Túnez",
+    "codigoAlfa2": "TN",
+    "codigoAlfa3": "TUN",
+    "idMoneda": 141
+  },
+  {
+    "id": 795,
+    "nombre": "Turkmenistán",
+    "codigoAlfa2": "TM",
+    "codigoAlfa3": "TKM",
+    "idMoneda": 140
+  },
+  {
+    "id": 792,
+    "nombre": "Turquía",
+    "codigoAlfa2": "TR",
+    "codigoAlfa3": "TUR",
+    "idMoneda": 143
+  },
+  {
+    "id": 798,
+    "nombre": "Tuvalu",
+    "codigoAlfa2": "TV",
+    "codigoAlfa3": "TUV",
+    "idMoneda": 8
+  },
+  {
+    "id": 804,
+    "nombre": "Ucrania",
+    "codigoAlfa2": "UA",
+    "codigoAlfa3": "UKR",
+    "idMoneda": 147
+  },
+  {
+    "id": 800,
+    "nombre": "Uganda",
+    "codigoAlfa2": "UG",
+    "codigoAlfa3": "UGA",
+    "idMoneda": 148
+  },
+  {
+    "id": 858,
+    "nombre": "Uruguay",
+    "codigoAlfa2": "UY",
+    "codigoAlfa3": "URY",
+    "idMoneda": 152
+  },
+  {
+    "id": 860,
+    "nombre": "Uzbekistán",
+    "codigoAlfa2": "UZ",
+    "codigoAlfa3": "UZB",
+    "idMoneda": 153
+  },
+  {
+    "id": 548,
+    "nombre": "Vanuatu",
+    "codigoAlfa2": "VU",
+    "codigoAlfa3": "VUT",
+    "idMoneda": 157
+  },
+  {
+    "id": 336,
+    "nombre": "Vaticano, Ciudad del",
+    "codigoAlfa2": "VA",
+    "codigoAlfa3": "VAT",
+    "idMoneda": 49
+  },
+  {
+    "id": 862,
+    "nombre": "Venezuela",
+    "codigoAlfa2": "VE",
+    "codigoAlfa3": "VEN",
+    "idMoneda": 154
+  },
+  {
+    "id": 704,
+    "nombre": "Vietnam",
+    "codigoAlfa2": "VN",
+    "codigoAlfa3": "VNM",
+    "idMoneda": 156
+  },
+  {
+    "id": 876,
+    "nombre": "Wallis y Futuna",
+    "codigoAlfa2": "WF",
+    "codigoAlfa3": "WLF",
+    "idMoneda": 170
+  },
+  {
+    "id": 887,
+    "nombre": "Yemen",
+    "codigoAlfa2": "YE",
+    "codigoAlfa3": "YEM",
+    "idMoneda": 174
+  },
+  {
+    "id": 262,
+    "nombre": "Yibuti",
+    "codigoAlfa2": "DJ",
+    "codigoAlfa3": "DJI",
+    "idMoneda": 42
+  },
+  {
+    "id": 894,
+    "nombre": "Zambia",
+    "codigoAlfa2": "ZM",
+    "codigoAlfa3": "ZMB",
+    "idMoneda": 176
+  },
+  {
+    "id": 716,
+    "nombre": "Zimbabue",
+    "codigoAlfa2": "ZW",
+    "codigoAlfa3": "ZWE",
+    "idMoneda": 177
+  }
+]
